@@ -19,7 +19,7 @@
 ### 🎮 Sample Projects:
 1. **Shadow Escape**:  
    A thrilling maze game where players navigate a shadow through dynamic obstacles while avoiding collisions.  
-   <a href="https://github.com/ganpat-mallah/shadow-escape" target="_blank">
+   <a href="https://[ganpat-mallah.github.io/Shadow-game](https://ganpat-mallah.github.io/Shadow-game/)" target="_blank">
      <img src="https://img.shields.io/badge/Explore%20Game-Shadow%20Escape-blue?style=for-the-badge&logo=github" alt="Shadow Escape">
    </a>
 
@@ -31,7 +31,7 @@
 
 3. **Quiz Game**:  
    A fun quiz game with interactive features like score tracking, random questions, and detailed results.  
-   <a href="https://github.com/ganpat-mallah/quiz-game" target="_blank">
+   <a href="https://[github.com/ganpat-mallah/quiz-game](https://ganpat-mallah.github.io/Quiz-game/)" target="_blank">
      <img src="https://img.shields.io/badge/Explore%20Game-Quiz%20Game-yellow?style=for-the-badge&logo=github" alt="Quiz Game">
    </a>
 
@@ -39,7 +39,7 @@
 
 <h2 align="center">🚀 My Journey</h2>
 <p align="center">
-  🌟 Started learning Python and JavaScript in 2024. <br>
+  🌟 Started learning Python and JavaScript in 2023. <br>
   🌟 Developed my first maze puzzle game, <b>Memory Maze</b>. <br>
   🌟 Installed GitHub Copilot to enhance my coding experience. <br>
   🌟 Currently exploring frameworks like Flask and PixiJS to create dynamic projects.
@@ -57,6 +57,26 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/PixiJS-FF5500?style=for-the-badge&logo=pixijs&logoColor=white" alt="PixiJS">
 </p>
+
+---
+# GitHub Overview
+
+## Achievements
+<div align="center">
+  <img src="https://img.shields.io/badge/Followers-Hyper_Celebrity_284pt-yellow?style=for-the-badge" alt="Followers" />
+  <img src="https://img.shields.io/badge/Stars-High_Star_70pt-blue?style=for-the-badge" alt="Stars" />
+  <img src="https://img.shields.io/badge/Commits-Hyper_Committer_412pt-green?style=for-the-badge" alt="Commits" />
+  <img src="https://img.shields.io/badge/Issues-High_Issuer_20pt-red?style=for-the-badge" alt="Issues" />
+  <img src="https://img.shields.io/badge/Pull_Requests-High_Puller_48pt-purple?style=for-the-badge" alt="Pull Requests" />
+  <img src="https://img.shields.io/badge/Repositories-High_Repo_Creator_24pt-orange?style=for-the-badge" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Reviews-Active_Reviewer_16pt-pink?style=for-the-badge" alt="Reviews" />
+  <img src="https://img.shields.io/badge/Experience-Intermediate_Dev_13pt-lightgrey?style=for-the-badge" alt="Experience" />
+</div>
+
+## Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganpat-Mallah&theme=github" alt="Activity Graph" />
+</div>
 
 ---
 
@@ -80,4 +100,7 @@
   <a href="https://github.com/ganpat-mallah" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+</p>
+<p align="center">
+  💞️I will follow back, if you will follow me!
 </p>
