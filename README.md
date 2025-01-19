@@ -35,6 +35,12 @@
      <img src="https://img.shields.io/badge/Explore%20Game-Quiz%20Game-yellow?style=for-the-badge&logo=github" alt="Quiz Game">
    </a>
 
+4. **Advanced ChatBot**:  
+   A chatbot capable of answering questions and providing interactive responses. It includes various conversational features like fetching current time, date, jokes, and handling user requests dynamically.  
+   <a href="https://github.com/ganpat-mallah/advanced-chatbot" target="_blank">
+     <img src="https://img.shields.io/badge/Explore%20ChatBot-Advanced%20ChatBot-purple?style=for-the-badge&logo=github" alt="Advanced ChatBot">
+   </a>
+
 ---
 
 <h2 align="center">🚀 My Journey</h2>
