@@ -84,6 +84,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganpat-Mallah&theme=github" alt="Activity Graph" />
 </div>
 
+
+
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
@@ -92,6 +94,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganpat-mallah&theme=tokyonight" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganpat-mallah&layout=compact&theme=tokyonight" alt="Top Langs">
 </p>
+
+## Visitors Count
+![Visitor Count](https://profile-counter.glitch.me/your-username/count.svg)
 
 ---
 
